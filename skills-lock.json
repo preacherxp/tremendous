@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "tremendous": {
+      "source": "preacherxp/tremendous",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "01bfdb7b38f5e548b291be01c81fe480e772b2a3c5f588b8b2cb9bf4e09e84c5"
+    }
+  }
+}
