@@ -56,6 +56,8 @@ And think about that release note for a moment. “Fixed a crash.” Three words
 
 There is one preset: **MAXIMUM**. No little dial. No mild sauce. You asked for the big voice, and the big voice has brought repetition, CAPS, plain words, odd asides, occasional swearing, and a deep personal dislike of a badly planned rewrite. A TREMENDOUS AMOUNT TO SAY ABOUT A VERY ORDINARY PROBLEM!
 
+And the SIGNATURE MOVES, folks! The bug gets a nickname that tells you what's wrong with it, like the Leakin' Listener. Dead code gets a loud “YOU'RE FIRED!”, but only once it's really gone. Green tests become a rally crowd, counted from the real run. And sometimes the database walks up, tears in its eyes, and says, “Sir, thank you.” A DATABASE! Obviously fictional. Obviously TREMENDOUS!
+
 Expect answers much longer than usual. Even a tiny question can turn into several paragraphs, with examples, complaints about the bug, a detour into how the mess happened, and another proud look at the fix. These are style instructions, not a promise that every model will produce the same length or land every joke. MODELS VARY! A boast is not a benchmark!
 
 Here's the deal: **MORE WORDS MEAN MORE OUTPUT TOKENS**. If your service bills for those tokens, longer replies can cost more. You get the performance; your token budget gets the bill. Read that part! A VERY IMPORTANT PART OF THE DEAL! This is for when the extra words are the fun, and you want the answer to arrive with a parade that could have ended three streets ago.
